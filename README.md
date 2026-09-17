@@ -54,16 +54,16 @@ Program menerima nilai `a`, `b`, dan `c` dari persamaan `ax² + bx + c = 0`. Jik
 
 ## Pengujian
 
-| Program | Input | Hasil yang Diharapkan | Status |
-|---|---|---|---|
-| Genap/Ganjil | 88 | 88 adalah bilangan genap | Berhasil |
-| Bandingkan | 7 dan 4 | Bilangan pertama lebih besar | Berhasil |
-| Kelulusan | 75 dan 90 | Lulus | Berhasil |
-| Jenis Segitiga | 3, 3, 3 | Segitiga sama sisi | Berhasil |
-| Persamaan Kuadrat | 1, -5, 6 | D = 1,00; x1 = 3,00; x2 = 2,00 | Berhasil |
-| Persamaan Kuadrat | 1, 2, 1 | D = 0,00; x = -1,00 | Berhasil |
-| Persamaan Kuadrat | 1, 0, 1 | D = -4,00; tidak memiliki akar real | Berhasil |
-| Persamaan Kuadrat | 0, 2, 3 | Bukan persamaan kuadrat | Berhasil |
+|| Program | Input | Hasil yang Diharapkan | Hasil Aktual | Status |
+|---|---|---|---|---|
+| Genap/Ganjil | 8 | 8 adalah bilangan genap | 8 adalah bilangan genap | Berhasil |
+| Bandingkan | 7 dan 4 | Bilangan pertama lebih besar | Bilangan pertama lebih besar | Berhasil |
+| Kelulusan | 75 dan 90 | Lulus | Lulus | Berhasil |
+| Jenis Segitiga | 3, 3, 3 | Segitiga sama sisi | Segitiga sama sisi | Berhasil |
+| Persamaan Kuadrat | 1, -5, 6 | D = 1,00; x1 = 3,00; x2 = 2,00 | D = 1,00; x1 = 3,00; x2 = 2,00 | Berhasil |
+| Persamaan Kuadrat | 1, 2, 1 | D = 0,00; x = -1,00 | D = 0,00; x = -1,00 | Berhasil |
+| Persamaan Kuadrat | 1, 0, 1 | D = -4,00; tidak memiliki akar real | D = -4,00; tidak memiliki akar real | Berhasil |
+| Persamaan Kuadrat | 0, 2, 3 | Bukan persamaan kuadrat | Bukan persamaan kuadrat | Berhasil |
 
 ## Refleksi
 
