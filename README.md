@@ -54,7 +54,9 @@ Program menerima nilai `a`, `b`, dan `c` dari persamaan `ax² + bx + c = 0`. Jik
 
 ## Pengujian
 
-|| Program | Input | Hasil yang Diharapkan | Hasil Aktual | Status |
+## Pengujian
+
+| Program | Input | Hasil yang Diharapkan | Hasil Aktual | Status |
 |---|---|---|---|---|
 | Genap/Ganjil | 8 | 8 adalah bilangan genap | 8 adalah bilangan genap | Berhasil |
 | Bandingkan | 7 dan 4 | Bilangan pertama lebih besar | Bilangan pertama lebih besar | Berhasil |
